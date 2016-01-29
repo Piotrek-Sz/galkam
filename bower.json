@@ -1,0 +1,21 @@
+{
+  "name": "galkam",
+  "homepage": "https://github.com/Piotrek-Sz/galkam",
+  "authors": [
+    "Piotrek-Sz <piotr.szyjka@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
